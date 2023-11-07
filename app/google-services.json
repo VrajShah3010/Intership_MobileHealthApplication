@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914171889409",
+    "project_id": "timepass-f70dc",
+    "storage_bucket": "timepass-f70dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914171889409:android:638fe0034017e6f31dbd00",
+        "android_client_info": {
+          "package_name": "com.example.timepass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGnMJaCqlCzzggARkEw-MCPb_PeGIpAZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
